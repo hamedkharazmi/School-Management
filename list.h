@@ -104,3 +104,4 @@ public:
     }
     void sort(bool (*)(const type &data1,const type &data2),bool isAscendant=true);
 };
+
